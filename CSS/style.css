@@ -1,0 +1,16 @@
+.banner{
+    max-width: 450px;
+    height: 675px;
+    background-image: url(./../Image/IMG_20221109_101119.jpg);
+    background-size: cover;
+    margin-left: 750px;
+}
+.button{
+    background-color: white;
+    padding: 10px 15px;
+    border-radius: 20px;
+}
+.button1{
+    background-color: lightblue;
+    padding: 10px 15px;
+    border-radius: 20px;
